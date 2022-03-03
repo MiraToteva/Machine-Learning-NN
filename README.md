@@ -1,3 +1,3 @@
-# Machine Learning / NN projects
+# Machine Learning / NN Software University projects
 
 
